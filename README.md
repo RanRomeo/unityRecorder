@@ -1,3 +1,6 @@
+試試看是不是輸入下面網址就可以安裝
+"com.unity.recorder": "https://github.com/johnsu6616/unityRecorder.git#2.5.5-preview"   
+
 # UNITY RECORDER
 
 Use the Unity Recorder to capture and save in-game data during [Play Mode](https://docs.unity3d.com/Manual/GameView.html). For example, use the Unity Recorder to capture and save gameplay as an MP4 file.
