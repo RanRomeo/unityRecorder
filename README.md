@@ -1,4 +1,4 @@
-試試看是不是輸入下面網址就可以安裝
+試試看是不是輸入下面網址就可以安裝  
 "com.unity.recorder": "https://github.com/johnsu6616/unityRecorder.git#2.5.5-preview"   
 
 # UNITY RECORDER
